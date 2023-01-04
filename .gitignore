@@ -1,9 +1,5 @@
 # npm
 node_modules
-package-lock.json
-package.json
-tsconfig.build.json
-tsconfig.json
 dist
 *.log
 *.gz
